@@ -16,5 +16,5 @@ The Netflix Clone project is a web application created using HTML, CSS, and Java
 - index.html: Main HTML file containing the structure of the website.
 - styles.css: CSS file for styling the HTML elements.
 - script.js: JavaScript file responsible for adding dynamic behavior to the website.
-  
+- Images Used
 
